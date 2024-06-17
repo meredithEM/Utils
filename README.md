@@ -1,4 +1,3 @@
-```markdown
 # OSDataReader_Feko
 
 ## Description
@@ -58,4 +57,4 @@ The script provides the following key functionalities:
 ## License
 
 This script is licensed under the MIT License. You are free to use, modify, and distribute it according to the terms of the license. Please see the `LICENSE` file for more details.
-```
+
